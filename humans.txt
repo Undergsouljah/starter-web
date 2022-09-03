@@ -3,11 +3,13 @@
 
 Hi, I am modifying the file before rebase
 
+
 # TEAM
 
     <name> Oluwaseun Akintokun <twitter>
 	oluwaseun.akintokun@gmail.com
-	DevOps Engineer technology
+	DevOps Engineer technology 3
+	IT organization
 
 # THANKS
 
