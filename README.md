@@ -16,6 +16,8 @@ Fork the repository and raise pull request for review
 ## Git Comparison
 
 Adding GIT Comparisons Lecture
+Adding new lectures of stash
+
 
 ## GITHUB Content
 
