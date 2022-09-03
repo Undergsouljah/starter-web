@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub wor
 
 ## Purpose
-
+Alot of lectures are still coming up
 Sample website with plenty of files for demos
 
 ## GIT & GITHUB Training
